@@ -1,0 +1,28 @@
+name: daily-dev-nuggets
+favicon: null
+layout_spectrum: 0.663356154691428
+typography_spectrum: 0.44834304391406476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5873925574123859
+  lightness: 0.44920351286418736
+  saturation: 0.4591776095330715
+  rhythmicContrast: 0.49262545350939035
+purpose: []
